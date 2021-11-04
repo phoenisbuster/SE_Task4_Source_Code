@@ -18,7 +18,7 @@ export const Menu_List = [
   {
     id: 3,
     title: 'godzilla milkshake',
-    category: 'Drinks',
+    category: 'Ice-cream',
     price: 6.99,
     img: './images/item-3.jpeg',
     desc: 'abc',
@@ -42,7 +42,7 @@ export const Menu_List = [
   {
     id: 6,
     title: 'oreo dream',
-    category: 'Drinks',
+    category: 'Ice-cream',
     price: 18.99,
     img: './images/item-6.jpeg',
     desc: 'abc',
@@ -66,7 +66,7 @@ export const Menu_List = [
   {
     id: 9,
     title: 'quarantine buddy',
-    category: 'Drinks',
+    category: 'Ice-cream',
     price: 16.99,
     img: './images/item-9.jpeg',
     desc: 'abc',
