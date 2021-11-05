@@ -1,5 +1,6 @@
-import React from 'react'
-import { useGlobalContext } from './context'
+import React from 'react';
+import './Navbar.css';
+import { useGlobalContext } from '../Cart/context';
 const Navbar = () => {
   const { amount } = useGlobalContext()
   return (
@@ -17,6 +18,6 @@ const Navbar = () => {
       </div>
     </nav>
   )
-}
+};
 
-export default Navbar
+export default Navbar;

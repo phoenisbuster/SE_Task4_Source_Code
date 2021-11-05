@@ -2,7 +2,8 @@ import './Menu.css';
 import React, { useState } from 'react';
 import Menu from './Menu';
 import Categories from './Categories';
-import {Menu_List} from './data';
+import {Menu_List} from '../Data/data';
+
 const allCategories = ['all', ...new Set(Menu_List.map((item) => item.category))];
 
 function GenerateMenu() {
@@ -30,6 +31,6 @@ function GenerateMenu() {
       </section>
     </main>
   );
-}
+};
 
 export default GenerateMenu;

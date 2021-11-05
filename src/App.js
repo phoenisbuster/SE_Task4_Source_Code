@@ -1,26 +1,19 @@
-/*import './App.css';*/
+import './App.css';
 import React, { useState } from 'react';
-import Menu from './Menu';
-import Categories from './Categories';
-import {Menu_List} from './data';
-import { useGlobalContext } from './context';
 
 // components
-import Navbar from './Navbar';
-import GenerateMenu from './GenerateMenu';
-import CartContainer from './CartContainer';
-
-const allCategories = ['all', ...new Set(Menu_List.map((item) => item.category))];
-
+import Navbar from './Components/Navigation Bar/Navbar';
+import GenerateMenu from './Components/Menu/GenerateMenu';
+import GenerateCart from './Components/Cart/GenerateCart';
 
 function App() {
 	return (
 		<main>
 			<Navbar />
 			<GenerateMenu />
-			<CartContainer /> 		
+			<GenerateCart /> 		
 		</main>
 	)
-}
+};
 
 export default App;

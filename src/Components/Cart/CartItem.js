@@ -1,5 +1,6 @@
-import React from 'react'
-import { useGlobalContext } from './context'
+import React from 'react';
+import { useGlobalContext } from './context';
+
 const CartItem = ({ id, img, title, price, amount }) => {
   const { remove, increase, decrease, toggleAmount } = useGlobalContext()
   return (
@@ -31,6 +32,6 @@ const CartItem = ({ id, img, title, price, amount }) => {
       </div>
     </article>
   )
-}
+};
 
-export default CartItem
+export default CartItem;

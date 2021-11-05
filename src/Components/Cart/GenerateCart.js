@@ -1,8 +1,9 @@
-import React from 'react'
-import CartItem from './CartItem'
-import { useGlobalContext } from './context'
+import React from 'react';
+import './Cart.css';
+import CartItem from './CartItem';
+import { useGlobalContext } from './context';
 
-const CartContainer = () => {
+const GenerateCart = () => {
   const { cart, total, clearCart } = useGlobalContext()
   if (cart.length === 0) {
     return (
@@ -41,6 +42,6 @@ const CartContainer = () => {
       </footer>
     </section>
   )
-}
+};
 
-export default CartContainer
+export default GenerateCart;
