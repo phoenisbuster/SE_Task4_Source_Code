@@ -71,6 +71,14 @@ export const Menu_List = [
     img: './images/item-9.jpeg',
     desc: 'abc',
   },
+  {
+    id: 10,
+    title: 'Jet Pilot Tropical Cocktail',
+    category: 'Drink',
+    price: 4.65,
+    img: './images/drk_00.jpeg',
+    desc: 'sth',
+  },
 ];
 
 
