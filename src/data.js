@@ -79,6 +79,14 @@ export const Menu_List = [
     img: './images/drk_00.jpeg',
     desc: 'Fast and courageous. A vigorous blend of heavy bodied rums and zesty juices.',
   },
+  {
+    id: 11,
+    title: 'rose grapefruit tea',
+    category: 'drink',
+    price: 1.99,
+    img: './images/item-11.jpeg',
+    desc: 'Inspired by the tropical sea, with the sweet taste of grapes mixed with lotus tea and pineapple jelly, Tra Sen Nho is like a cool breeze blowing away the heat.',
+  },
 ];
 
 
