@@ -5,7 +5,7 @@ export const Menu_List = [
     category: 'breakfast',
     price: 15.99,
     img: './images/item-1.jpeg',
-    desc: 'abc',
+    desc: 'Pancakes are the hero of the breakfast table, and their very taste can even be described as “deeply breakfasty”: eggy, salty, just this side of sweet.',
   },
   {
     id: 2,
