@@ -90,7 +90,7 @@ export const Menu_List = [
   {
     id: 12,
     title: 'Baskin-Robbins Float',
-    category: 'Ice-cream',
+    category: 'Beverage',
     price: 10.99,
     img: './images/item-12.jpeg',
     desc: 'Our floats are made with a base of either Coke or Barq Root Beer topped with a large dollop of ice cream for a fun and fizzy drink. ',
