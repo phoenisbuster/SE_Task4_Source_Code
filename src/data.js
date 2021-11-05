@@ -77,7 +77,7 @@ export const Menu_List = [
     category: 'Drink',
     price: 4.65,
     img: './images/drk_00.jpeg',
-    desc: 'sth',
+    desc: 'Fast and courageous. A vigorous blend of heavy bodied rums and zesty juices.',
   },
 ];
 
