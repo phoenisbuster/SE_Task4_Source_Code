@@ -28,7 +28,7 @@ export const Menu_List = [
     title: 'Huevos Rancheros Wraps',
     category: 'breakfast',
     price: 20.99,
-    img: './images/brf_00.jpeg',
+    img: './images/brf_00.jpg',
     desc: 'Organic cage-free eggs, refried beans, cheese and cilantro salsa',
   },
   {
@@ -76,7 +76,7 @@ export const Menu_List = [
     title: 'Jet Pilot Tropical Cocktail',
     category: 'Drink',
     price: 4.65,
-    img: './images/drk_00.jpeg',
+    img: './images/drk_00.jpg',
     desc: 'Fast and courageous. A vigorous blend of heavy bodied rums and zesty juices.',
   },
   {
