@@ -25,11 +25,11 @@ export const Menu_List = [
   },
   {
     id: 4,
-    title: 'country delight',
+    title: 'Huevos Rancheros Wraps',
     category: 'breakfast',
     price: 20.99,
-    img: './images/item-4.jpeg',
-    desc: 'abc',
+    img: './images/brf_00.jpeg',
+    desc: 'Organic cage-free eggs, refried beans, cheese and cilantro salsa',
   },
   {
     id: 5,
