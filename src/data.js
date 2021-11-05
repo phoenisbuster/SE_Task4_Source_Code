@@ -28,7 +28,7 @@ export const Menu_List = [
     title: 'Huevos Rancheros Wraps',
     category: 'breakfast',
     price: 20.99,
-    img: './images/brf_00.jpeg',
+    img: './images/brf_00.jpg',
     desc: 'Organic cage-free eggs, refried beans, cheese and cilantro salsa',
   },
   {
@@ -74,15 +74,15 @@ export const Menu_List = [
   {
     id: 10,
     title: 'Jet Pilot Tropical Cocktail',
-    category: 'Drink',
+    category: 'Beverage',
     price: 4.65,
-    img: './images/drk_00.jpeg',
+    img: './images/drk_00.jpg',
     desc: 'Fast and courageous. A vigorous blend of heavy bodied rums and zesty juices.',
   },
   {
     id: 11,
     title: 'rose grapefruit tea',
-    category: 'drink',
+    category: 'Beverage',
     price: 1.99,
     img: './images/item-11.jpeg',
     desc: 'Inspired by the tropical sea, with the sweet taste of grapes mixed with lotus tea and pineapple jelly, Tra Sen Nho is like a cool breeze blowing away the heat.',
