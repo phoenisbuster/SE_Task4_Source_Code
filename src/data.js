@@ -1,7 +1,7 @@
 export const Menu_List = [
   {
     id: 1,
-    title: 'buttermilk pancakes',
+    title: 'Buttermilk Pancakes',
     category: 'breakfast',
     price: 15.99,
     img: './images/item-1.jpeg',
@@ -49,11 +49,11 @@ export const Menu_List = [
   },
   {
     id: 7,
-    title: 'bacon overflow',
+    title: 'Bacon Overflow',
     category: 'breakfast',
     price: 8.99,
     img: './images/item-7.jpeg',
-    desc: 'abc',
+    desc: 'Carry jianbing normcore freegan. Viral single-origin coffee live-edge, pork belly cloud bread iceland put a bird',
   },
   {
     id: 8,
