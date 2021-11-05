@@ -13,7 +13,7 @@ export const Menu_List = [
     category: 'lunch',
     price: 13.99,
     img: './images/item-2.jpeg',
-    desc: 'abc',
+    desc: 'Canadian cheese, caramelized onions and All-Canadian sauce on a brioche bun. Served with wavy-cut French fries.',
   },
   {
     id: 3,
@@ -33,11 +33,11 @@ export const Menu_List = [
   },
   {
     id: 5,
-    title: 'egg attack',
+    title: 'Fried rice',
     category: 'lunch',
     price: 22.99,
     img: './images/item-5.jpeg',
-    desc: 'abc',
+    desc: 'Fried rice is a dish of cooked rice that has been stir-fried in a wok or a frying pan and is usually mixed with other ingredients such as eggs, vegetables, seafood, or meat.',
   },
   {
     id: 6,
@@ -57,11 +57,11 @@ export const Menu_List = [
   },
   {
     id: 8,
-    title: 'american classic',
+    title: 'Pho',
     category: 'lunch',
     price: 12.99,
     img: './images/item-8.jpeg',
-    desc: 'abc',
+    desc: 'Pho is a traditional dish of Vietnam, originating from Hanoi and Nam Dinh, and is considered one of the typical dishes for Vietnamese cuisine.',
   },
   {
     id: 9,
