@@ -17,18 +17,18 @@ export const Menu_List = [
   },
   {
     id: 3,
-    title: 'godzilla milkshake',
+    title: 'Vanilla Ice Cream',
     category: 'Ice-cream',
     price: 6.99,
     img: './images/item-3.jpeg',
-    desc: 'abc',
+    desc: 'Blending in vanilla essence in along with the eggs (optional), cream, milk and sugar',
   },
   {
     id: 4,
     title: 'Huevos Rancheros Wraps',
     category: 'breakfast',
     price: 20.99,
-    img: './images/brf_00.jpg',
+    img: './images/brf_00.jpeg',
     desc: 'Organic cage-free eggs, refried beans, cheese and cilantro salsa',
   },
   {
@@ -41,11 +41,11 @@ export const Menu_List = [
   },
   {
     id: 6,
-    title: 'oreo dream',
+    title: 'Chocolate Milk Shake',
     category: 'Ice-cream',
     price: 18.99,
     img: './images/item-6.jpeg',
-    desc: 'abc',
+    desc: 'Perfect your presentation and serve up this chilled drink topped with marshmallows, cream and a drizzle of chocolate spread',
   },
   {
     id: 7,
@@ -65,18 +65,18 @@ export const Menu_List = [
   },
   {
     id: 9,
-    title: 'quarantine buddy',
+    title: 'Strawberry Frozen Yogurt',
     category: 'Ice-cream',
     price: 16.99,
     img: './images/item-9.jpeg',
-    desc: 'abc',
+    desc: 'This easy frozen yogurt is one of our standby treats for the blazing hot days of summer.',
   },
   {
     id: 10,
     title: 'Jet Pilot Tropical Cocktail',
     category: 'Drink',
     price: 4.65,
-    img: './images/drk_00.jpg',
+    img: './images/drk_00.jpeg',
     desc: 'Fast and courageous. A vigorous blend of heavy bodied rums and zesty juices.',
   },
   {
@@ -86,6 +86,14 @@ export const Menu_List = [
     price: 1.99,
     img: './images/item-11.jpeg',
     desc: 'Inspired by the tropical sea, with the sweet taste of grapes mixed with lotus tea and pineapple jelly, Tra Sen Nho is like a cool breeze blowing away the heat.',
+  },
+  {
+    id: 12,
+    title: 'Baskin-Robbins Float',
+    category: 'Ice-cream',
+    price: 10.99,
+    img: './images/item-12.jpeg',
+    desc: 'Our floats are made with a base of either Coke or Barq Root Beer topped with a large dollop of ice cream for a fun and fizzy drink. ',
   },
 ];
 
