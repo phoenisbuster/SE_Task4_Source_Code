@@ -9,11 +9,11 @@ export const Menu_List = [
   },
   {
     id: 2,
-    title: 'Beaf Steak',
+    title: 'Beef Steak',
     category: 'Lunch/Dinner',
     price: 4.99,
-    img: './images/item-2.jpeg',
-    desc: 'Canadian cheese, caramelized onions and All-Canadian sauce on a brioche bun. Served with wavy-cut French fries.',
+    img: './images/Beaf_steak.jpg',
+    desc: 'Beef is a good-tasting and nutritious food item, and steaks are the favorite of most people. A good steak is juicy, tender, loaded with flavor, and has a minimum amount of fat.',
   },
   {
     id: 3,
@@ -52,8 +52,8 @@ export const Menu_List = [
     title: 'Banh Mi',
     category: 'breakfast',
     price: 1.99,
-    img: './images/item-7.jpeg',
-    desc: 'Carry jianbing normcore freegan. Viral single-origin coffee live-edge, pork belly cloud bread iceland put a bird',
+    img: './images/banh_mi.jpg',
+    desc: 'Along with pho, banh mi is one of the outstanding representatives in the rich cuisine of Vietnam, which has conquered a large number of diners from many countries around the world.',
   },
   {
     id: 8,

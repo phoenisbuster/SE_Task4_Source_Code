@@ -11,7 +11,7 @@ const GenerateCart = () => {
         {/* cart header */}
         <header>
           <h2 id="Cart_Navigation">your bag</h2>
-          <h4 className='empty-cart'>is currently empty</h4>
+          <h4 className='empty-cart'>your cart is currently empty</h4>
         </header>
       </section>
     )

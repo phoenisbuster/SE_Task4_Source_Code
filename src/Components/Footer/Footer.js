@@ -9,7 +9,6 @@ import {
   } from "@material-ui/icons";
   import styled from "styled-components";
   import React, { Component }  from 'react';
-  import './Footer.css';
 
   const Container = styled.div`
     display: flex;
@@ -90,16 +89,16 @@ import {
             Nguyen Dinh Bao Phuc -- 1852068
           </Desc>
           <Desc>
-            Hoang Nhat Quang -- 1852???
+            Hoang Nhat Quang -- 1852691
           </Desc>
           <Desc>
-            Nguyen Minh Anh -- 1852???
+            Nguyen Minh Anh -- 1852008
           </Desc>
           <Desc>
             Tran Anh Dung -- 1852306
           </Desc>
           <Desc>
-            Dang Tran Dat -- 1852???
+            Dang Tran Dat -- 1852312
           </Desc>
           <SocialContainer>
             <SocialIcon color="3B5999">
@@ -132,7 +131,7 @@ import {
             <Room style={{marginRight:"10px"}}/> 268 Lý Thường Kiệt, Phường 14, Quận 10, Thành phố Hồ Chí Minh
           </ContactItem>
           <ContactItem>
-            <Phone style={{marginRight:"10px"}}/> +84 69696969
+            <Phone style={{marginRight:"10px"}}/> +84 123456789
           </ContactItem>
           <ContactItem>
             <MailOutline style={{marginRight:"10px"}} /> phuc.nguyenphoenis@hcmut.edu.vn
