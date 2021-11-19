@@ -6,6 +6,7 @@ export const Menu_List = [
     price: 1.99,
     img: './images/item-1.jpeg',
     desc: 'Pancakes are the hero of the breakfast table, and their very taste can even be described as “deeply breakfasty”: eggy, salty, just this side of sweet.',
+    amount: 1,
   },
   {
     id: 2,
@@ -14,6 +15,7 @@ export const Menu_List = [
     price: 4.99,
     img: './images/Beaf_steak.jpg',
     desc: 'Beef is a good-tasting and nutritious food item, and steaks are the favorite of most people. A good steak is juicy, tender, loaded with flavor, and has a minimum amount of fat.',
+    amount: 1,
   },
   {
     id: 3,
@@ -22,6 +24,7 @@ export const Menu_List = [
     price: 0.99,
     img: './images/item-3.jpeg',
     desc: 'Blending in vanilla essence in along with the eggs (optional), cream, milk and sugar',
+    amount: 1,
   },
   {
     id: 4,
@@ -30,6 +33,7 @@ export const Menu_List = [
     price: 1.99,
     img: './images/brf_00.jpg',
     desc: 'Organic cage-free eggs, refried beans, cheese and cilantro salsa',
+    amount: 1,
   },
   {
     id: 5,
@@ -38,6 +42,7 @@ export const Menu_List = [
     price: 4.99,
     img: './images/item-5.jpeg',
     desc: 'Fried rice is a dish of cooked rice that has been stir-fried in a wok or a frying pan and is usually mixed with other ingredients such as eggs, vegetables, seafood, or meat.',
+    amount: 1,
   },
   {
     id: 6,
@@ -46,6 +51,7 @@ export const Menu_List = [
     price: 2.99,
     img: './images/item-6.jpeg',
     desc: 'Perfect your presentation and serve up this chilled drink topped with marshmallows, cream and a drizzle of chocolate spread',
+    amount: 1,
   },
   {
     id: 7,
@@ -54,6 +60,7 @@ export const Menu_List = [
     price: 1.99,
     img: './images/banh_mi.jpg',
     desc: 'Along with pho, banh mi is one of the outstanding representatives in the rich cuisine of Vietnam, which has conquered a large number of diners from many countries around the world.',
+    amount: 1,
   },
   {
     id: 8,
@@ -62,6 +69,7 @@ export const Menu_List = [
     price: 3.99,
     img: './images/item-8.jpeg',
     desc: 'Pho is a traditional dish of Vietnam, originating from Hanoi and Nam Dinh, and is considered one of the typical dishes for Vietnamese cuisine.',
+    amount: 1,
   },
   {
     id: 9,
@@ -70,6 +78,7 @@ export const Menu_List = [
     price: 0.99,
     img: './images/item-9.jpeg',
     desc: 'This easy frozen yogurt is one of our standby treats for the blazing hot days of summer.',
+    amount: 1,
   },
   {
     id: 10,
@@ -78,6 +87,7 @@ export const Menu_List = [
     price: 1.99,
     img: './images/drk_00.jpg',
     desc: 'Fast and courageous. A vigorous blend of heavy bodied rums and zesty juices.',
+    amount: 1,
   },
   {
     id: 11,
@@ -86,6 +96,7 @@ export const Menu_List = [
     price: 0.99,
     img: './images/item-11.jpeg',
     desc: 'Inspired by the tropical sea, with the sweet taste of grapes mixed with lotus tea and pineapple jelly, Tra Sen Nho is like a cool breeze blowing away the heat.',
+    amount: 1,
   },
   {
     id: 12,
@@ -94,12 +105,13 @@ export const Menu_List = [
     price: 1.99,
     img: './images/item-12.jpeg',
     desc: 'Our floats are made with a base of either Coke or Barq Root Beer topped with a large dollop of ice cream for a fun and fizzy drink. ',
+    amount: 1,
   },
 ];
 
 
-export default [
-  {
+export const cartItems = [
+  /*{
     id: 1,
     title: 'buttermilk pancakes',
     price: 1.99,
@@ -107,24 +119,24 @@ export default [
     amount: 1,
   },
   {
-    id: 2,
+    id: 8,
     title: 'Pho',
     price: 3.99,
     img: './images/item-8.jpeg',
     amount: 1,
   },
   {
-    id: 3,
+    id: 9,
     title: 'Strawberry Frozen Yogurt',
     price: 0.99,
     img: './images/item-9.jpeg',
     amount: 1,
   },
   {
-    id: 4,
+    id: 10,
     title: 'Jet Pilot Tropical Cocktail',
     price: 1.99,
     img: './images/drk_00.jpg',
     amount: 1,
-  },
+  },*/
 ];

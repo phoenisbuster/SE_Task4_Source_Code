@@ -1,4 +1,17 @@
 const reducer = (state, action) => {
+  if(action.type === 'ADD_TO_CART'){
+    console.log(action.payload.item.id);
+    let IsSameItem = false;
+    let tempCart = state.cart.map((cartItem) => {
+      if (cartItem.id === action.payload.item.id) {
+        IsSameItem = true;
+        return { ...cartItem, amount: cartItem.amount + 1 };
+      }
+      return cartItem
+    })
+    if(IsSameItem === true) return { ...state, cart: tempCart }
+    return { ...state, cart: [...state.cart, {...action.payload.item}]}
+  }
   if (action.type === 'CLEAR_CART') {
     return { ...state, cart: [] }
   }
