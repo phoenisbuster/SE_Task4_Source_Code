@@ -1,11 +1,6 @@
-# SE_Task4_Source_Code
+# SE_Task4_and_5_Source_Code 
 
----------------------------- Structure ------------------------------
-
-
-
-
------------------------------ Data ----------------------------------
+This is the MVP product for Task 4 and 5 for SE project 211
 
 
 
@@ -25,6 +20,6 @@ Using "npm install" to download necessary node modules
 
 Using "npm start" to run the project.
 
------------------------------- Disadvantages ---------------------------
+
 
 
